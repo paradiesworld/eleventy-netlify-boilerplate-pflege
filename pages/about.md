@@ -1,6 +1,6 @@
 ---
 title: 'Über Medicare Deutschland '
-date: 2017-01-01T00:00:00.000Z
+date: 2019-01-09T00:00:00.000Z
 permalink: /about/index.html
 navtitle: Über
 tags:
