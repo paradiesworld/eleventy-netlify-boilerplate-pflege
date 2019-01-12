@@ -1,15 +1,9 @@
 ---
-layout: layouts/contact.njk
-title: Get in touch
+title: Kontakt aufnehmen
+date: 2018-01-01T00:00:00.000Z
+permalink: /contact/index.html
+navtitle: Contact
 tags:
   - nav
-navtitle: Contact
-section: contact
-date: 2018-01-01
-permalink: /contact/index.html
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in your Netlify account where you can optionally
-set up notifications. Each submission is passed through a spam filter and if
-flagged, will display a CAPTCHA challenge to the user.
+Für jeden Kontakt <form><input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 6px 6px 5px #999999; -moz-box-shadow: 6px 6px 5px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 10px; border: 1px solid #D9D9D9; font-size: 150%;" type="button" value="Send eMail" onclick="window.location.href='mailto:paradiesworld@gmail.com'" /></form>
