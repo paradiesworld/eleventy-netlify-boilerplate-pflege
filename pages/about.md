@@ -1,27 +1,13 @@
 ---
-title: About us
+title: 'Über Medicare Deutschland '
+date: 2017-01-01T00:00:00.000Z
+permalink: /about/index.html
+navtitle: About
 tags:
   - nav
-navtitle: About
-section: about
-date: 2017-01-01
-permalink: /about/index.html
 ---
+Das deutsche Gesundheitssystem hat einige wichtige Punkte zu beachten. Zunächst ist es Pflicht, beim Leben, Arbeiten oder Studieren in Deutschland versichert zu sein – außer bei irgendwelchen Arbeits-oder Bevölkerungsgruppen. Zweitens ist das deutsche System ein sogenanntes duales System, das eine Pflichtversicherung und eine private Versicherung enthält. Beide Arten von Versicherungen haben ihre Vor-und Nachteile, und es gibt einige Regeln, welche Personen die eine oder andere Versicherung nehmen können.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Our services
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Die Versicherungen in Deutschland und vor allem die obligatorischen sind auf einem Konzept eines Sozialstaates basiert. Dieses Konzept besagt, dass alle Deutschen Geld in das System einzahlen. Wer krank wird oder einen Unfall hat, erhält Geld vom System für seine Heilung. Nicht jeder Mensch bekommt das gesamte Geld zurück, das er oder sie eingezahlt hat. Wer nicht krank wird, kann kein Geld von der Versicherung bekommen. Aber das System besagt, dass jeder für diejenigen bezahlen muss, die die Hilfe brauchen.
