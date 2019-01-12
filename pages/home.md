@@ -41,17 +41,11 @@ Die Zahlungen umfassen EUR 5,00 bis 10,00 (6,36 bis 12,72 USD12.72) pro ambulant
 **Sicherheitsnetze:** 
 Kinder unter 18 Jahren sind von der Kostenbeteiligung befreit. Für Erwachsene gibt es eine jährliche Deckelung der Kostenbeteiligung in Höhe von 2 Prozent des Haushaltseinkommens; Ein Teil des Einkommens eines Haushalts ist von dieser Berechnung für zusätzliche Familienmitglieder ausgenommen. Rund 0,3 Millionen der Versicherten im SHI übertrafen 2014 die 2-Prozent-Obergrenze und wurden von einer weiteren Kostenbeteiligung befreit. Die Obergrenze wird auf 1 Prozent des jährlichen Bruttoeinkommens für chronisch kranke Menschen gesenkt; Um sich zu qualifizieren, müssen diese Personen nachweisen, dass sie vor dem Erscheinen an empfohlenen Beratungs-oder Screening-Verfahren teilgenommen haben. Fast 6,3 Millionen Menschen oder rund 9 Prozent aller SHI-Versicherten profitierten im Jahr 2014 von dieser Regelung. 4.10 Arbeitslose tragen im Verhältnis zu ihren Arbeitslosenansprüchen zum SHI bei. Für Langzeitarbeitslose trägt die Regierung in ihrem Namen mit.
 
-Unser anderes Blog-Netzwerk ist : <a href="https://munchen.gq/">München.gq</a> ,<a href="https://munchen.cf">München.CF</a> ,<a href="https://munchen.ga">München.GA</a> ,
+Unser anderes Blog-Netzwerk ist : <a href="https://munchen.gq/">München.gq</a> ,<a href="https://munchen.cf">München.CF</a> ,<a href="https://munchen.ga">München.GA</a> ,<a href="https://munchen.ml">München.ML</a> , <a href="https://gesundheit.cf">Gesundheit.CF</a> ,<a href="https://pflege.gq">Pflege.GQ</a> ,<a href="https://baumfallung.tk">Baumfallung.TK</a> ,<a href="https://baumfallung.ml">Baumfallung.ML</a> ,<a href="https://bild.ga">Bild.GA</a>
 
-<a href="https://munchen.ml">München.ML</a> , <a href="https://gesundheit.cf">Gesundheit.CF</a> ,<a href="https://pflege.gq">Pflege.GQ</a> ,
+Unsere Kunden-Websites :  <a href="https://ihrbaumprofi.de">Ihrbaumprofi</a> | <a href="https://kieferorthopaede-fuenfhoefe.de">Kieferorthopäde München</a> | <a href="https://www.stefanrieth.com">Stefanrieth</a> |<a href="https://mittelzumleben.bz/nahrungsergaenzungsmittel/911/cbd-oel-5-vegan-10ml">CBD Öl</a> | <a href="https://delitip.com">Delitip</a> |
 
-<a href="https://baumfallung.tk">Baumfallung.TK</a> ,<a href="https://baumfallung.ml">Baumfallung.ML</a> ,<a href="https://bild.ga">Bild.GA</a>
-
-Unsere Kunden-Websites :  <a href="https://ihrbaumprofi.de">Ihrbaumprofi</a> | <a href="https://kieferorthopaede-fuenfhoefe.de">Kieferorthopäde München</a> | <a href="https://www.stefanrieth.com">Stefanrieth</a> |
-<a href="https://mittelzumleben.bz/nahrungsergaenzungsmittel/911/cbd-oel-5-vegan-10ml">CBD Öl</a> | <a href="https://delitip.com">Delitip</a> |
-
-Für jeden Kontakt <form>
-<input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 6px 6px 5px #999999; -moz-box-shadow: 6px 6px 5px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 10px; border: 1px solid #D9D9D9; font-size: 150%;" type="button" value="Send eMail" onclick="window.location.href='mailto:paradiesworld@gmail.com'" />
+Für jeden Kontakt <form><input style="width: 300px; padding: 20px; box-shaddow: 6px 6px 5px; #999999; -webkit-box-shadow: 6px 6px 5px #999999; -moz-box-shadow: 6px 6px 5px #999999; font-weight: bold; background: #CCFF00; color: #000000; cursor: pointer; border-radius: 10px; border: 1px solid #D9D9D9; font-size: 150%;" type="button" value="Send eMail" onclick="window.location.href='mailto:paradiesworld@gmail.com'" />
 
 </form>
 
